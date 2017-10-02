@@ -1,0 +1,14 @@
+{
+  "name": "soft-loader",
+  "version": "0.0.1",
+  "description": "Loads content locally and replaces the state of the browser.",
+  "main": "soft-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soft load"
+  ],
+  "author": "Ayon Lee",
+  "license": "MIT"
+}
